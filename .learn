@@ -4,3 +4,4 @@ tags:
 languages: 
   - SQLite3
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/sql-database-basics-readme.git
