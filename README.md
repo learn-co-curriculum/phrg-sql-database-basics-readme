@@ -211,4 +211,9 @@ And that's it! You can exit out of the sqlite prompt with the `.quit` command.
 
 <a href='https://www.sqlite.org/lang_keywords.html'>SQL KEYWORDS</a>
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-database-basics-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-database-basics-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
+
 <p data-visibility='hidden'>PHRG Database Basics</p>
